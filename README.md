@@ -8,7 +8,7 @@ The GLEIF API finds the corresponding Legal Name of the entity which issued the 
 
 Postman add on extension for chrome if very useful and handy to test the api. I recommend using it.
 
-We gonna follow these steps:
+We will follow these steps:
 
     * Installing Django
     * Making the Django Project
