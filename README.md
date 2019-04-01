@@ -1,5 +1,5 @@
 Origin Markets with Django
-I have used a form of authentication, so that each user will only see their own data. (DRF Auth Options)
+I have used a form of authentication, so that each user will only see their own data with DRF Auth.
 The GLEIF API finds the corresponding Legal Name of the entity which issued the bond.
 
 
