@@ -26,11 +26,11 @@ I have not used models for the queries. It can be made to use models and django-
 
 pip3 install -r requirements.txt
 
-$ git clone https://github.com/kinitrupti/origin-markets.git
-$ cd origin-markets/
-$ virtualenv --python=`which python3` venv
-$ source venv/bin/activate
-$ pip install -r requirements.txt
-$ cd myproject
-$ python manage.py migrate
-$ python manage.py runserver
+* git clone https://github.com/kinitrupti/origin-markets.git
+* cd origin-markets/
+* virtualenv --python=`which python3` venv
+* source venv/bin/activate
+* pip3 install -r requirements.txt
+* cd myproject
+* python3 manage.py migrate
+* python3 manage.py runserver
