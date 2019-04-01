@@ -1,13 +1,14 @@
-Origin Markets with Django
-I have used a form of authentication, so that each user will only see their own data. (DRF Auth Options)
+# Origin Markets with Django #
+
+I have used a form of authentication, so that each user will only see their own data with DRF Auth.
 The GLEIF API finds the corresponding Legal Name of the entity which issued the bond.
 
 
-## 1. How to use
+# How to use
 
 Postman add on extension for chrome if very useful and handy to test the api. I recommend using it.
 
-We gonna follow these steps:
+We will follow these steps:
 
     * Installing Django
     * Making the Django Project
